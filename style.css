@@ -1,0 +1,21 @@
+.product {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+.product-name {
+	font-size: 20px;
+}
+
+.product-price {
+	font-size: 20px;
+	margin-right: 10px;
+}
+
+input[type="number"] {
+	font-size: 20px;
+	width: 80px;
+	text-align: right;
+}
